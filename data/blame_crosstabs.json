@@ -1,0 +1,1038 @@
+{
+  "blame_by_location": {
+    "Diaspora (Arab)": {
+      "israel": 27.2,
+      "iran": 55.4,
+      "hezbollah": 25.4,
+      "lebanese_government": 15.6,
+      "sectarian_system": 25.2,
+      "international_community": 3.7,
+      "no_clear_blame": 11.6,
+      "_n": 7123
+    },
+    "Lebanon": {
+      "israel": 32.5,
+      "iran": 21.4,
+      "hezbollah": 19.7,
+      "lebanese_government": 23.1,
+      "sectarian_system": 17.6,
+      "international_community": 4.6,
+      "no_clear_blame": 24.1,
+      "_n": 4013
+    },
+    "Other Intl": {
+      "israel": 50.7,
+      "iran": 30.9,
+      "hezbollah": 30.9,
+      "lebanese_government": 9.4,
+      "sectarian_system": 5.8,
+      "international_community": 4.6,
+      "no_clear_blame": 16.0,
+      "_n": 3266
+    },
+    "Unknown": {
+      "israel": 41.8,
+      "iran": 27.4,
+      "hezbollah": 29.9,
+      "lebanese_government": 11.5,
+      "sectarian_system": 7.7,
+      "international_community": 5.4,
+      "no_clear_blame": 22.2,
+      "_n": 26671
+    },
+    "Western": {
+      "israel": 48.8,
+      "iran": 29.4,
+      "hezbollah": 27.5,
+      "lebanese_government": 14.8,
+      "sectarian_system": 11.5,
+      "international_community": 6.6,
+      "no_clear_blame": 15.3,
+      "_n": 7334
+    }
+  },
+  "blame_by_language": {
+    "ar": {
+      "israel": 26.9,
+      "iran": 45.2,
+      "hezbollah": 22.8,
+      "lebanese_government": 21.1,
+      "sectarian_system": 24.2,
+      "international_community": 4.6,
+      "no_clear_blame": 16.3,
+      "_n": 14790
+    },
+    "en": {
+      "israel": 46.5,
+      "iran": 25.5,
+      "hezbollah": 30.4,
+      "lebanese_government": 10.0,
+      "sectarian_system": 6.0,
+      "international_community": 5.5,
+      "no_clear_blame": 20.7,
+      "_n": 33617
+    }
+  },
+  "blame_by_time": {
+    "Early (Mar 12-17)": {
+      "israel": 37.4,
+      "iran": 35.3,
+      "hezbollah": 24.0,
+      "lebanese_government": 16.8,
+      "sectarian_system": 19.9,
+      "international_community": 4.4,
+      "no_clear_blame": 17.0,
+      "_n": 16680
+    },
+    "Spike (Mar 18-19)": {
+      "israel": 42.2,
+      "iran": 29.5,
+      "hezbollah": 30.3,
+      "lebanese_government": 11.6,
+      "sectarian_system": 7.1,
+      "international_community": 5.6,
+      "no_clear_blame": 20.5,
+      "_n": 31727
+    }
+  },
+  "stance_by_location": {
+    "Diaspora (Arab)": {
+      "analytical": 29.3,
+      "anti_war": 26.9,
+      "pro_resistance": 17.0,
+      "pro_israel": 4.3,
+      "unclear": 22.5,
+      "_n": 7123
+    },
+    "Lebanon": {
+      "analytical": 54.0,
+      "anti_war": 18.1,
+      "pro_resistance": 10.0,
+      "pro_israel": 3.1,
+      "unclear": 14.8,
+      "_n": 4013
+    },
+    "Other Intl": {
+      "analytical": 51.2,
+      "anti_war": 16.7,
+      "pro_resistance": 9.3,
+      "pro_israel": 9.9,
+      "unclear": 13.0,
+      "_n": 3266
+    },
+    "Unknown": {
+      "analytical": 33.2,
+      "anti_war": 21.4,
+      "pro_resistance": 10.6,
+      "pro_israel": 11.2,
+      "unclear": 23.6,
+      "_n": 26671
+    },
+    "Western": {
+      "analytical": 31.9,
+      "anti_war": 24.7,
+      "pro_resistance": 12.3,
+      "pro_israel": 11.8,
+      "unclear": 19.3,
+      "_n": 7334
+    }
+  },
+  "stance_by_language": {
+    "ar": {
+      "analytical": 35.0,
+      "anti_war": 25.7,
+      "pro_resistance": 15.0,
+      "pro_israel": 3.6,
+      "unclear": 20.6,
+      "_n": 14790
+    },
+    "en": {
+      "analytical": 35.5,
+      "anti_war": 20.6,
+      "pro_resistance": 10.2,
+      "pro_israel": 12.1,
+      "unclear": 21.6,
+      "_n": 33617
+    }
+  },
+  "stance_by_time": {
+    "Early (Mar 12-17)": {
+      "analytical": 36.4,
+      "anti_war": 23.3,
+      "pro_resistance": 12.0,
+      "pro_israel": 9.1,
+      "unclear": 19.2,
+      "_n": 16680
+    },
+    "Spike (Mar 18-19)": {
+      "analytical": 34.8,
+      "anti_war": 21.5,
+      "pro_resistance": 11.5,
+      "pro_israel": 9.8,
+      "unclear": 22.4,
+      "_n": 31727
+    }
+  },
+  "top_blame_combos": {
+    "israel": 10190,
+    "no_clear_blame": 7355,
+    "hezbollah + iran": 4367,
+    "iran": 3889,
+    "hezbollah": 3064,
+    "hezbollah + israel": 2693,
+    "iran + israel": 2507,
+    "sectarian_system": 1397,
+    "hezbollah + lebanese_government": 1278,
+    "lebanese_government + sectarian_system": 1080,
+    "iran + sectarian_system": 1055,
+    "lebanese_government": 886,
+    "israel + lebanese_government": 807,
+    "international_community": 695,
+    "israel + no_clear_blame": 650,
+    "international_community + israel": 581,
+    "israel + sectarian_system": 579,
+    "iran + lebanese_government": 511,
+    "iran + no_clear_blame": 470,
+    "hezbollah + iran + israel": 458,
+    "hezbollah + no_clear_blame": 383,
+    "hezbollah + sectarian_system": 370,
+    "hezbollah + iran + sectarian_system": 302,
+    "iran + israel + lebanese_government": 247,
+    "hezbollah + iran + lebanese_government": 228,
+    "international_community + lebanese_government": 228,
+    "lebanese_government + no_clear_blame": 187,
+    "international_community + iran": 181,
+    "iran + lebanese_government + sectarian_system": 173,
+    "international_community + israel + lebanese_government": 157
+  },
+  "top_blame_combos_by_location": {
+    "Lebanon": {
+      "israel": 833,
+      "no_clear_blame": 820,
+      "lebanese_government + sectarian_system": 276,
+      "iran": 263,
+      "hezbollah + iran": 200,
+      "sectarian_system": 189,
+      "lebanese_government": 174,
+      "hezbollah + lebanese_government": 149,
+      "hezbollah + israel": 140,
+      "hezbollah": 131
+    },
+    "Diaspora (Arab)": {
+      "iran": 1122,
+      "hezbollah + iran": 933,
+      "israel": 849,
+      "iran + sectarian_system": 633,
+      "no_clear_blame": 626,
+      "iran + israel": 407,
+      "sectarian_system": 311,
+      "lebanese_government + sectarian_system": 246,
+      "hezbollah + israel": 164,
+      "hezbollah": 156
+    },
+    "Western": {
+      "israel": 1841,
+      "no_clear_blame": 834,
+      "hezbollah + iran": 644,
+      "hezbollah + israel": 466,
+      "iran": 437,
+      "iran + israel": 423,
+      "hezbollah": 379,
+      "lebanese_government + sectarian_system": 200,
+      "hezbollah + lebanese_government": 196,
+      "sectarian_system": 188
+    },
+    "Other Intl": {
+      "israel": 923,
+      "no_clear_blame": 364,
+      "hezbollah + iran": 284,
+      "iran": 273,
+      "hezbollah + israel": 260,
+      "hezbollah": 240,
+      "iran + israel": 200,
+      "hezbollah + lebanese_government": 74,
+      "israel + no_clear_blame": 60,
+      "iran + no_clear_blame": 47
+    },
+    "Unknown": {
+      "israel": 5744,
+      "no_clear_blame": 4711,
+      "hezbollah + iran": 2306,
+      "hezbollah": 2158,
+      "iran": 1794,
+      "hezbollah + israel": 1663,
+      "iran + israel": 1381,
+      "hezbollah + lebanese_government": 708,
+      "sectarian_system": 673,
+      "israel + lebanese_government": 465
+    }
+  },
+  "sample_quotes": {
+    "Lebanese blaming Israel": [
+      {
+        "text": "الحرب في لبنان:\n- كنا قلنا سابقاً، المجموعات المقاتلة تهدف الى استنزاف العدو ومنعه من ترسيخ سيطرته.\n- بلدة الطيبة أمس شهدت ملاحم بطولية في الدفاع عن الأرض والوطن.\n- الاخبار اليوم صباحاً ان العدو يقصف مارون الراس وأطراف بنت جبيل وغارات على الخيام.\n- ان يقصفها العدو، يعني أنه لا يسيطر عليها كما روّج الإعلام ( نشر خرائط احتلال مناطق).\n- برر الرئيس الاميركي أمس ان اسرائيل قصفت حقل بارس في ايران \"لأنها...",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "lebanese_government"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 2953,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "الصحافي علي برو معتقل منذ 6 أيام في سجون النظام اللبناني المستبد، لكن مريم مجدولين التي تسببت بقتل 11 مسعف حرة طليقة\nوقناة MTV التي نشرت إحداثيات حية لإسرائيل وقُصفت، لم تُحاسب، ويوسف رجي الذي اعطى الحق لإسرائيل بقصف لبنان لم يُحاسب\nومارك ضو الذي يريد حرب اهلية، لم يُحاسب\n#لبنان https://t.co/S1FiaNRNJ7",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "lebanese_government",
+          "israel"
+        ],
+        "stance": "anti_war",
+        "engagement": 2100,
+        "date": "2026-03-16"
+      },
+      {
+        "text": "Hezbollah has destroyed/put out of service so far at least 27 Israeli Merkava tanks in confrontations against IOF invading forces southern Lebanon",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 2065,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "WATCH | Hezbollah releases footage of its fighters targeting an Israeli D9 armoured bulldozer in the town of Al-Taybeh, south Lebanon.",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "analytical",
+        "engagement": 2001,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "Send this to all the Christian nationalists cheering on the bombing of Lebanon",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "anti_war",
+        "engagement": 1973,
+        "date": "2026-03-13"
+      }
+    ],
+    "Lebanese blaming Hezbollah": [
+      {
+        "text": "Hezbollah has destroyed/put out of service so far at least 27 Israeli Merkava tanks in confrontations against IOF invading forces southern Lebanon",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 2065,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "WATCH | Hezbollah releases footage of its fighters targeting an Israeli D9 armoured bulldozer in the town of Al-Taybeh, south Lebanon.",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "analytical",
+        "engagement": 2001,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "The al-Qassam Brigades published a video message dedicated to Hezbollah fighters, saying that the Israeli tanks that managed to escape Rafah will surely be destroyed at the hands of the Lebanese Resistance in South Lebanon.\n\nThe video included clips of Israeli tanks struck by Palestinian and Lebanese Resistance fighters alike.\n\n#Palestine #Lebanon #Hamas #Hezbollah #AlMayadeen",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1714,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "BREAKING | Ashkelon (occupied Asqalan), in the Gaza Envelope, was struck for the first time in Hezbollah’s history by a rocket launched from Lebanon, marking a record range of over 200 km.",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "hezbollah",
+          "iran"
+        ],
+        "stance": "analytical",
+        "engagement": 1712,
+        "date": "2026-03-18"
+      },
+      {
+        "text": "After Hezbollah carried out a sophisticated ambush yesterday in Taybeh southern Lebanon, destroying 6 Israeli Merkava tanks in a few hours, Al-Qassam published a video from Gaza ambushes addressing the Islamic Resistance in Lebanon:\n\n“We are certain you will complete the mission” https://t.co/ddruERImmG",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1604,
+        "date": "2026-03-19"
+      }
+    ],
+    "Lebanese blaming sectarian system": [
+      {
+        "text": "#لبنان \n📌هيدا لبنان لما كان المسيحيين والسنّة يشكلون الأغلبية\n\n📌قبل عبد الناصر ومشاريعه مع المخيمات الفلسطينية\n\n📌وقبل ثورة الخميني والعمائم الإيرانية \n\n📌هيدا لبنان الحياد، وسويسرا الشرق\n\n📌هيدا لبنان كميل شمعون وصائب سلام https://t.co/2KqrKO3eEO",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "sectarian_system"
+        ],
+        "stance": "analytical",
+        "engagement": 5308,
+        "date": "2026-03-18"
+      },
+      {
+        "text": "I'm a Druze born, raised, and living in Lebanon, son of a former PSP militant who fought alongside the PLO during the Israeli siege of Beirut in 1982. Today, my old man and I both agree that we have nothing to do with Islam's holy war against the Jews. We want to live in peace.",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "sectarian_system"
+        ],
+        "stance": "anti_war",
+        "engagement": 1923,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "نحن شيعة محمد وعلي وفاطمة وذريتهم (ع) في لبنان لسنا  بحاجة ولا نتوسل اعتراف احد بنا وبمقاومتنا.\nوكفى بالله ناصرا ووكيلا\nوالعاقبة للمتقين الصابرين...",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "hezbollah",
+          "sectarian_system"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1094,
+        "date": "2026-03-17"
+      },
+      {
+        "text": "في موقف جديد وليس مستغرب عن الرئيس بري.. أمام زواره :\n\nإن الشيعة في لبنان جسد واحد، وإرادتنا صلبة، فإما أن نعيش معاً بكرامة أو نواجه المصير معاً، فنحن نعيش سوياً أو نموت سوياً .. 💛💚 https://t.co/IRvscpaGmN",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "sectarian_system"
+        ],
+        "stance": "analytical",
+        "engagement": 954,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "يا مسيحيي لبنان! \nلا تنجرّوا إلى الطائفية والحقد، لا تدعوا أحد يقنعكم أننا نستطيع أن نعيش ونزدهر في كانتون \"طاهر\" لنا وحدنا. \nأنبذوا التطرف والطائفية، وارفضوا الكلام الطائفي ولغة التخويف والتفرقة.\nنحن تراب هذه الأرض وأساس العيش المشترك في هذا البلد. نحن صمام الأمان والمكوّن الجامع لجميع أبنائه.\nقوتنا بانفتاحتنا ومحبتنا، وضمانتنا انتشارنا.\nدائما أبدًا لبنان، لبنان ال #10452km2",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "sectarian_system"
+        ],
+        "stance": "anti_war",
+        "engagement": 723,
+        "date": "2026-03-17"
+      }
+    ],
+    "Arab diaspora blaming Israel": [
+      {
+        "text": "عندما دخلت إسرائيل لبنان في عام 1982\nاستقبلها الشيعة بالزغاريد والأرز \n\nوالهدف كان قتال الفصائل الفلسطينية\n\nولما تقول للفلسطيني أنت عايش في وهم أنهم ينصرون قضيتك يبدأ بالسب والشتم\n\nمتى يصحى القوم؟ https://t.co/hgrLSC1QpB",
+        "lang": "ar",
+        "country": "West Asia",
+        "blame_targets": [
+          "israel",
+          "sectarian_system"
+        ],
+        "stance": "anti_war",
+        "engagement": 7669,
+        "date": "2026-03-17"
+      },
+      {
+        "text": "In southern Lebanon, Christian-majority towns like Rmeish, Debel, and Ain Ebel remain on the front line, refusing to leave.\nDespite losing three young men in a recent Israeli strike, Ain Ebel’s residents still refuse to evacuate.\n📸 AFP https://t.co/zwsnMCQ2zf",
+        "lang": "en",
+        "country": "West Asia",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "analytical",
+        "engagement": 2901,
+        "date": "2026-03-17"
+      },
+      {
+        "text": "🚨💯 عـــاجل 💥\n\nتقوم إسرائيل بإسقاط الفوسفور الأبيض على قرية الخيام في جنوب لبنان.\n\nعلى المنازل.\nفي المناطق المدنية.\n\nهذه جريمة حرب.\n\nلم يصدر أي تعليق من المجتمع الدولي.\n\nلم يصدر أي تصريح من المحكمة الجنائية الدولية. https://t.co/TCZienuoYG",
+        "lang": "ar",
+        "country": "West Asia",
+        "blame_targets": [
+          "israel",
+          "international_community"
+        ],
+        "stance": "anti_war",
+        "engagement": 2294,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "Breakingnews:\n\nHezbollah is launching missiles on the Galilee. Hezbollah's objective is to force benjamin netanyahu, an ICC fugitive for war crimes, to order the total evacuation of all settlers from the north.",
+        "lang": "en",
+        "country": "North Africa",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1371,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "From yesterday’s massacre in Mashghara, Western Bekaa: Manal Samaha and her child, Ali Kamal, were killed by Israel, and several civilians were injured. #Lebanon https://t.co/68FgaUaiHD",
+        "lang": "en",
+        "country": "West Asia",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "anti_war",
+        "engagement": 1252,
+        "date": "2026-03-19"
+      }
+    ],
+    "Arab diaspora blaming Hezbollah": [
+      {
+        "text": "اقسم بمن احل القسم الي يحصل بين اسرائيل وامريكا من حربهم على ايران ومليشياتها في سوريا والعراق ولبنان  تدخل الهي من رب العالمين قصاص وعقوبة لما فعلوه من جرائم ضد اهل السنة في سوريا والعراق واليمن وما دخل البشر فيه 《 ان بطش ربك لشديد》 .... https://t.co/S77EPIGAjp",
+        "lang": "ar",
+        "country": "West Asia",
+        "blame_targets": [
+          "iran",
+          "hezbollah"
+        ],
+        "stance": "anti_war",
+        "engagement": 2085,
+        "date": "2026-03-17"
+      },
+      {
+        "text": "من يظن أن سوريا ستدخل لبنان لقتال حزب الله\n\nإذن اسمع هذه المعلومة: القيادة السورية تعد العدة للحرب ضد إسرائيل\n\nقد لا تكون الحرب في هذا الوقت، لكن الحرب قادمة لا محالة https://t.co/7LIjfVMGfr",
+        "lang": "ar",
+        "country": "West Asia",
+        "blame_targets": [
+          "hezbollah"
+        ],
+        "stance": "unclear",
+        "engagement": 1439,
+        "date": "2026-03-17"
+      },
+      {
+        "text": "التـ....ـشيع يلفظ انفاسه الأخيرة في لبنان والعراق",
+        "lang": "ar",
+        "country": "West Asia",
+        "blame_targets": [
+          "hezbollah"
+        ],
+        "stance": "unclear",
+        "engagement": 1406,
+        "date": "2026-03-17"
+      },
+      {
+        "text": "Breakingnews:\n\nHezbollah is launching missiles on the Galilee. Hezbollah's objective is to force benjamin netanyahu, an ICC fugitive for war crimes, to order the total evacuation of all settlers from the north.",
+        "lang": "en",
+        "country": "North Africa",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1371,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "🔴 حزب الله يقصف تل_ابيب بصواريخ بالستية.. من المستغرب أن يملك حزب الله هذه الصواريخ وهو المحاصر والذي يتعرض ويتعرض معه لبنان لضربات عنيفة منذ أكثر من سنتين.. هذه الحرب ليست كأي حرب شهدتها  https://t.co/KL4IEJfP1E",
+        "lang": "ar",
+        "country": "North Africa",
+        "blame_targets": [
+          "hezbollah",
+          "lebanese_government"
+        ],
+        "stance": "analytical",
+        "engagement": 1121,
+        "date": "2026-03-18"
+      }
+    ],
+    "Arab diaspora blaming Iran": [
+      {
+        "text": "Qatar, Azerbaijan, Bahrain, Egypt, Jordan, Kuwait, Lebanon, Pakistan, Saudi Arabia, Syria, Türkiye and the UAE issued a joint statement calling on Iran “to immediately halt its attacks” after holding a meeting in Riyadh.\n\n🔴 LIVE updates: https://t.co/auZxF2qHXL https://t.co/s6XHT5GvwW",
+        "lang": "en",
+        "country": "Qatar",
+        "blame_targets": [
+          "iran"
+        ],
+        "stance": "analytical",
+        "engagement": 13078,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "🔺️الشيعة هم الاقوى بالشرق الاوسط !\n\n🔺️شيعة اليمن انتصاراتهم معروفه\n🔺️شيعة لبنان انتصاراتهم معروفة \n🔺️في العراق انتصاراتهم معروفة\n🔺️في ايران العين تشهد قبل اللسان .\n\nحين خضع مليار سني\nوقف الشيعي وبعض السنة شامخاً\nقالوا      لا   حين سكت الجميع \n\n▪️كأن الاسلام خلق فقط لهم ، كل صفات المؤمنين فيهم ، الحلم والشجاعة والقوة والكرامة والنبل والتواضع .\n\nالتاريخ لا يرحم\nوسوف يكتب كل شيء\nواليوم التاريخ مصور ...",
+        "lang": "ar",
+        "country": "Iraq",
+        "blame_targets": [
+          "iran"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 3492,
+        "date": "2026-03-16"
+      },
+      {
+        "text": "أقوى ردّ أردني على من يدعون بالرحمة للاريجاني أو خامنئي ✍️\n\nلا يغفر الله لنا إن غفرنا لدماء شعوب سوريا والعراق ولبنان واليمن، فهم إخوتنا بعهد الله ☝🏼.\n\nالأردن دولة عربية سنية، ولن تكون شيعية أو تابعة لإيران، رغم وجود بعض الخونة بيننا.\n\nالقصاص قادم... فاحذروا!\n\nزيارة السفارة الإيرانية جريمة وخيانة عظمى.\n\n#العدوان_الإيراني_الغاشم \n#علي_لاريجانى \n#مقتل_خامنئي",
+        "lang": "ar",
+        "country": "Jordan",
+        "blame_targets": [
+          "iran",
+          "sectarian_system"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 2264,
+        "date": "2026-03-18"
+      },
+      {
+        "text": "تخيلوا #ايران بكل جرائمها في سوريا والعراق واليمن ولبنان… ومع ذلك قدرت تقنع كثير من أبناء السنة بأنها دولة إسلامية تدافع عن #فلسطين_المحتلة \nكل هذا يوضح ليه مهمة المسيح الدجال على الناس بتكون سهلة جدًا",
+        "lang": "ar",
+        "country": "Qatar",
+        "blame_targets": [
+          "iran"
+        ],
+        "stance": "unclear",
+        "engagement": 2224,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "اقسم بمن احل القسم الي يحصل بين اسرائيل وامريكا من حربهم على ايران ومليشياتها في سوريا والعراق ولبنان  تدخل الهي من رب العالمين قصاص وعقوبة لما فعلوه من جرائم ضد اهل السنة في سوريا والعراق واليمن وما دخل البشر فيه 《 ان بطش ربك لشديد》 .... https://t.co/S77EPIGAjp",
+        "lang": "ar",
+        "country": "West Asia",
+        "blame_targets": [
+          "iran",
+          "hezbollah"
+        ],
+        "stance": "anti_war",
+        "engagement": 2085,
+        "date": "2026-03-17"
+      }
+    ],
+    "Western observers blaming Israel": [
+      {
+        "text": "The moment Israel targeted British journalist Steve Sweeney in southern Lebanon.\nhttps://t.co/sbxhDAK5fI",
+        "lang": "en",
+        "country": "United Kingdom",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "analytical",
+        "engagement": 105710,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "🚨BREAKING -- British journalist Steve Sweeney has been targeted by an Israeli airstrike in Lebanon. https://t.co/zmU4WV3MG4",
+        "lang": "en",
+        "country": "Europe",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "analytical",
+        "engagement": 33576,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "🚨🇮🇱🇷🇺🇱🇧 HOLY SHIT: The moment ISRAELI WARPLANES BOMBED Russia Today (RT) journalist Steve Sweeney @SweeneySteve in the South of Lebanon https://t.co/hHTgpOjF3u",
+        "lang": "en",
+        "country": "United States",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "analytical",
+        "engagement": 31998,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "🚨🇮🇱🇷🇺🇱🇧 BREAKING: \"It was not an accident, and we have called on international organizations to respond.\" - Russian Foreign Ministry Spokesperson Zakharova, commenting on the DIRECT ISRAELI ATTACK of RT journalists in Lebanon https://t.co/qom1ljYLjr",
+        "lang": "en",
+        "country": "United States",
+        "blame_targets": [
+          "israel",
+          "international_community"
+        ],
+        "stance": "analytical",
+        "engagement": 22168,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "I don’t get it. If Hezbollah had flats in this block (unlikely in central Beirut but not impossible) why did the Israelis give everyone inside an hour to get out — including those they wanted to kill?  And if there weren’t any Hezbollah people there, why destroy a building with dozens of civilians in it?",
+        "lang": "en",
+        "country": "United Kingdom",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "unclear",
+        "engagement": 17632,
+        "date": "2026-03-19"
+      }
+    ],
+    "Western pro-Israel stance": [
+      {
+        "text": "مع نهاية الحرب مع إيران، سوف ينتقل الثقل العسكري الإسرائيلي بالكامل وبشكل مباشر إلى لبنان، في حرب إبادة جديدة سوف تشهدها المنطقة، بدأ نتنياهو الاستعداد لها من الآن.\n\nتتحدث هيئة البث الإسرائيلية عن استدعاء 450 ألف جندي استعداداً للحرب البرية، التي تهدف في مرحلة أولى إلى احتلال كامل المنطقة في جنوب لبنان حتى نهر الليطاني .\n\nحرب غزة البرية تم استدعاء 300 الف جدي إسرائيل .",
+        "lang": "ar",
+        "country": "Europe",
+        "blame_targets": [
+          "israel",
+          "iran"
+        ],
+        "stance": "pro_israel",
+        "engagement": 2125,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "Iran has a right to defend itself against Israel.\n\nUnderstand, If Iran is attacking something that thing is Israel.\n\nQatar, Azerbaijan, Bahrain, Egypt, Jordan, Kuwait, Lebanon, Pakistan, Saudi Arabia, Syria, Türkiye and the UAE issued a joint statement calling on Iran “to immediately halt its attacks”.\n\nAll of them are Israel.",
+        "lang": "en",
+        "country": "Australia",
+        "blame_targets": [
+          "iran",
+          "israel"
+        ],
+        "stance": "pro_israel",
+        "engagement": 1694,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "Israeli Minister of defence announced the ethnic cleansing and destruction of South Lebanon stating clearly that they're doing the same as what they did in Gaza. https://t.co/pLAVwMcEDq",
+        "lang": "en",
+        "country": "United Kingdom",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "pro_israel",
+        "engagement": 1680,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "⭕️Folks, all I will say is that when the IDF deploys the 98th Division, its only for one reason. \n\nJust remember what nickname the Division received in Gaza......",
+        "lang": "en",
+        "country": "United States",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "pro_israel",
+        "engagement": 745,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "🎯 The IDF struck Hezbollah terrorists who carried rockets into a weapon storage facility:\n\nYesterday (Friday), the IDF identified Hezbollah terrorists carrying rockets into a weapon storage facility in the Al-Majadel area in southern Lebanon. \n\nIn a matter of minutes, the Israeli Air Force struck the warehouse and eliminated the terrorists.",
+        "lang": "en",
+        "country": "United States",
+        "blame_targets": [
+          "hezbollah",
+          "israel"
+        ],
+        "stance": "pro_israel",
+        "engagement": 509,
+        "date": "2026-03-14"
+      }
+    ],
+    "Western pro-resistance stance": [
+      {
+        "text": "@IamSean90 Everyone knows Israel is (and literally has been for decades) attempting to annex land in Lebanon. Hezbollah was born out of Israel’s invasion in the 80s.\n\nFirst order of business is to  protect boarders and sovereignty. You think it’s better for a genocidal invader to come and take land. If guess we have different priorities.",
+        "lang": "en",
+        "country": "United States",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 10435,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "🚨🇱🇧🇮🇱 BREAKING: Hezbollah destroyed Israeli 4 Merkava Tanks in the town of Tyba tonight",
+        "lang": "en",
+        "country": "United States",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 9683,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "\"Israel.. is attacking any infrastructure.. which they think Hezbollah might use. Hezbollah is not just a military org, its a political party, a social movement.. [they] might use any infrastructure.. the Israelis have today attacked 2 bridges.. that potentially is a war crime\" https://t.co/iIQdpBHetk",
+        "lang": "en",
+        "country": "United Kingdom",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 8504,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "For the first time, Hezbollah just fired missiles from Lebanon over a distance of more than 200 km toward Israeli gas fields near Ashkelon. Sheikh Naim updated Sayed Nasrallah’s “Haifa and beyond beyond Haifa” to “Tel Aviv and beyond beyond Tel Aviv”. Insane",
+        "lang": "en",
+        "country": "Europe",
+        "blame_targets": [
+          "hezbollah",
+          "sectarian_system"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 6374,
+        "date": "2026-03-18"
+      },
+      {
+        "text": "🚨🇵🇸🇱🇧Al-Qassam Brigades – Hamas publishes:\n\nTo our brothers in Hezbollah:\nWe are certain that you will complete the mission.” https://t.co/m48pemRp1M",
+        "lang": "en",
+        "country": "United Kingdom",
+        "blame_targets": [
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 4666,
+        "date": "2026-03-19"
+      }
+    ],
+    "Lebanese pro-resistance": [
+      {
+        "text": "الحرب في لبنان:\n- كنا قلنا سابقاً، المجموعات المقاتلة تهدف الى استنزاف العدو ومنعه من ترسيخ سيطرته.\n- بلدة الطيبة أمس شهدت ملاحم بطولية في الدفاع عن الأرض والوطن.\n- الاخبار اليوم صباحاً ان العدو يقصف مارون الراس وأطراف بنت جبيل وغارات على الخيام.\n- ان يقصفها العدو، يعني أنه لا يسيطر عليها كما روّج الإعلام ( نشر خرائط احتلال مناطق).\n- برر الرئيس الاميركي أمس ان اسرائيل قصفت حقل بارس في ايران \"لأنها...",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "lebanese_government"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 2953,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "Hezbollah has destroyed/put out of service so far at least 27 Israeli Merkava tanks in confrontations against IOF invading forces southern Lebanon",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 2065,
+        "date": "2026-03-19"
+      },
+      {
+        "text": "The Israeli escalation across Beirut is designed to pressure the Lebanese government to launch a war on Hezbollah.\n\nIn other words, Israel is holding a gun to the Lebanese government and saying if you don’t destabilize your country for us, we will kill you.",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "lebanese_government"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1916,
+        "date": "2026-03-13"
+      },
+      {
+        "text": "يُعتبر عمرو واكد جبهةً إعلامية قائمة بحدّ ذاتها في الدفاع عن جبهة المقاومة في المنطقة. منذ اندلاع الحرب الإسرائيلية على لبنان وإيران، سخّر الممثل المصري صفحته على منصة «إكس» لدحض الشائعات التي تُلمّع صورة الدول الخليجية وتشوّه صورة إيران.\n\nلقراءة المقال كاملاً 👇\n\nعمرو واكد يصوّب بوصلة حسين الجسمي!\nhttps://t.co/r9iQ5WPaA4",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "iran"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1777,
+        "date": "2026-03-16"
+      },
+      {
+        "text": "The al-Qassam Brigades published a video message dedicated to Hezbollah fighters, saying that the Israeli tanks that managed to escape Rafah will surely be destroyed at the hands of the Lebanese Resistance in South Lebanon.\n\nThe video included clips of Israeli tanks struck by Palestinian and Lebanese Resistance fighters alike.\n\n#Palestine #Lebanon #Hamas #Hezbollah #AlMayadeen",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel",
+          "hezbollah"
+        ],
+        "stance": "pro_resistance",
+        "engagement": 1714,
+        "date": "2026-03-19"
+      }
+    ],
+    "Lebanese anti-war": [
+      {
+        "text": "عباس عراقتشي للاعلامي علي هاشم على الجزيرة:\n🚨🚨🚨🚨لا نؤمن بوقف إطلاق النار، بل نؤمن بإنهاء الحرب. وإنهاء الحرب يعني إنهاءها على جميع الجبهات: في لبنان، واليمن، والعراق، وإيران، وسائر دول المنطقة.",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "iran"
+        ],
+        "stance": "anti_war",
+        "engagement": 2348,
+        "date": "2026-03-18"
+      },
+      {
+        "text": "الصحافي علي برو معتقل منذ 6 أيام في سجون النظام اللبناني المستبد، لكن مريم مجدولين التي تسببت بقتل 11 مسعف حرة طليقة\nوقناة MTV التي نشرت إحداثيات حية لإسرائيل وقُصفت، لم تُحاسب، ويوسف رجي الذي اعطى الحق لإسرائيل بقصف لبنان لم يُحاسب\nومارك ضو الذي يريد حرب اهلية، لم يُحاسب\n#لبنان https://t.co/S1FiaNRNJ7",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "lebanese_government",
+          "israel"
+        ],
+        "stance": "anti_war",
+        "engagement": 2100,
+        "date": "2026-03-16"
+      },
+      {
+        "text": "Send this to all the Christian nationalists cheering on the bombing of Lebanon",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "israel"
+        ],
+        "stance": "anti_war",
+        "engagement": 1973,
+        "date": "2026-03-13"
+      },
+      {
+        "text": "I'm a Druze born, raised, and living in Lebanon, son of a former PSP militant who fought alongside the PLO during the Israeli siege of Beirut in 1982. Today, my old man and I both agree that we have nothing to do with Islam's holy war against the Jews. We want to live in peace.",
+        "lang": "en",
+        "country": "Lebanon",
+        "blame_targets": [
+          "sectarian_system"
+        ],
+        "stance": "anti_war",
+        "engagement": 1923,
+        "date": "2026-03-15"
+      },
+      {
+        "text": "إيران تقاتل بشيعة لبنان كدروع بشرية. بشهادة المرشد الجديد السيّد مجتبى. كل قرار تتّخذه يدفع ثمنه المدنيون الشيعة. الذين يعيشون نكبة تشبه نكبة 1948. وحزب الله يعرف وموافق على التضحية بنا... فمتى يطرد لبنان سفير إيران ويقطع علاقته بها؟ https://t.co/u9cPVfKagt",
+        "lang": "ar",
+        "country": "Lebanon",
+        "blame_targets": [
+          "iran",
+          "hezbollah",
+          "lebanese_government"
+        ],
+        "stance": "anti_war",
+        "engagement": 854,
+        "date": "2026-03-14"
+      }
+    ]
+  },
+  "metadata": {
+    "total_tweets": 49149,
+    "valid_tweets": 48407,
+    "date_range": "2026-03-12T17:18:37+00:00 to 2026-03-19T18:43:21+00:00",
+    "location_counts": {
+      "Unknown": 26671,
+      "Western": 7334,
+      "Diaspora (Arab)": 7123,
+      "Lebanon": 4013,
+      "Other Intl": 3266
+    },
+    "language_counts": {
+      "en": 33617,
+      "ar": 14790
+    }
+  },
+  "blame_by_time_and_location": {
+    "Lebanon": {
+      "Early (Mar 12-17)": {
+        "israel": 27.1,
+        "iran": 24.0,
+        "hezbollah": 21.1,
+        "lebanese_government": 27.8,
+        "sectarian_system": 24.2,
+        "international_community": 4.7,
+        "no_clear_blame": 19.9,
+        "_n": 1928
+      },
+      "Spike (Mar 18-19)": {
+        "israel": 37.5,
+        "iran": 18.9,
+        "hezbollah": 18.4,
+        "lebanese_government": 18.7,
+        "sectarian_system": 11.5,
+        "international_community": 4.5,
+        "no_clear_blame": 27.9,
+        "_n": 2085
+      }
+    },
+    "Diaspora (Arab)": {
+      "Early (Mar 12-17)": {
+        "israel": 19.8,
+        "iran": 61.2,
+        "hezbollah": 26.4,
+        "lebanese_government": 17.0,
+        "sectarian_system": 30.3,
+        "international_community": 3.6,
+        "no_clear_blame": 10.3,
+        "_n": 3974
+      },
+      "Spike (Mar 18-19)": {
+        "israel": 36.6,
+        "iran": 48.0,
+        "hezbollah": 24.1,
+        "lebanese_government": 13.7,
+        "sectarian_system": 18.7,
+        "international_community": 3.9,
+        "no_clear_blame": 13.1,
+        "_n": 3149
+      }
+    },
+    "Western": {
+      "Early (Mar 12-17)": {
+        "israel": 35.6,
+        "iran": 34.6,
+        "hezbollah": 29.8,
+        "lebanese_government": 19.7,
+        "sectarian_system": 24.3,
+        "international_community": 3.0,
+        "no_clear_blame": 12.8,
+        "_n": 1853
+      },
+      "Spike (Mar 18-19)": {
+        "israel": 53.2,
+        "iran": 27.6,
+        "hezbollah": 26.8,
+        "lebanese_government": 13.1,
+        "sectarian_system": 7.1,
+        "international_community": 7.8,
+        "no_clear_blame": 16.1,
+        "_n": 5481
+      }
+    },
+    "Unknown": {
+      "Early (Mar 12-17)": {
+        "israel": 48.1,
+        "iran": 25.8,
+        "hezbollah": 21.1,
+        "lebanese_government": 13.6,
+        "sectarian_system": 13.3,
+        "international_community": 5.1,
+        "no_clear_blame": 20.9,
+        "_n": 8233
+      },
+      "Spike (Mar 18-19)": {
+        "israel": 39.0,
+        "iran": 28.1,
+        "hezbollah": 33.8,
+        "lebanese_government": 10.5,
+        "sectarian_system": 5.2,
+        "international_community": 5.5,
+        "no_clear_blame": 22.7,
+        "_n": 18438
+      }
+    }
+  }
+}

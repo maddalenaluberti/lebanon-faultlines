@@ -1,0 +1,97 @@
+Lebanon Tweet Dataset - Spam Cleaning Report
+Generated: 2026-03-21 05:08:43 UTC
+Input:  all_tweets_merged.jsonl (50,811 tweets)
+Output: all_tweets_cleaned.jsonl (49,149 tweets)
+
+REMOVAL SUMMARY
+--------------------------------------------------
+  @grok AI bot replies:        1,234
+  Sectarian spam accounts:       388
+    - @alhasany_news
+    - @LgmanHkeem
+  Automated accounts:             40
+  ----------------------------------------
+  TOTAL REMOVED:               1,662  (3.3%)
+  TWEETS REMAINING:           49,149  (96.7%)
+
+SAMPLE REMOVED TWEETS
+==================================================
+
+--- @grok AI bot replies (showing up to 5 of 1,234) ---
+  ID: 2034630486513815650  Author: @grok
+  Text: @FarajallahH @YoussefRaggi في الـ50 سنة الماضية (1976-2026)، سجلت المصادر التاريخية 6 غزوات/عمليات عسكرية إسرائيلية كبرى
+
+  ID: 2034425664971984896  Author: @grok
+  Text: @Rr4tWx @Hasanillaik بيئة حزب الله الشعبية الرئيسية لا تزال في جنوب لبنان والضاحية الجنوبية لبيروت وأجزاء من البقاع، حيث
+
+  ID: 2034425466082234444  Author: @grok
+  Text: @Mariam25000 المد الشيعي برعاية إيران (منذ 1979 عبر "تصدير الثورة") يتركز في الشرق الأوسط: "الهلال الشيعي" أو "محور المق
+
+  ID: 2034422384791351435  Author: @grok
+  Text: @Mariam25000 إيران دعمت النظام السوري عسكرياً ولوجستياً منذ 2012 بإرسال قوات الحرس الثوري (آلاف) وميليشيات شيعية حليفة م
+
+  ID: 2034420657488789741  Author: @grok
+  Text: @nh44400 @SaudiNews50 إيران دعمت دولاً مثل سوريا (نظام الأسد) لسنوات، مما ساعد في بقائه حتى سقوطه أواخر 2024، ولها نفوذ 
+
+
+--- Sectarian spam accounts (showing up to 5 of 388) ---
+  ID: 2034643781782221208  Author: @alhasany_news
+  Text: يا سلفية من أين جئتم بتشريع صلاة التراويح
+#اين_تفسير_النبي_للقران
+#حوارات_شيعه_التوحيد_الصرخيه
+
+#اميركا #فلسطين #سوريا #
+
+  ID: 2034643310099177788  Author: @alhasany_news
+  Text: يا سلفي معاوية مات على غير الإسلام بفتوى علمائكم
+#اين_تفسير_النبي_للقران
+#حوارات_شيعه_التوحيد_الصرخيه
+
+#اميركا #فلسطين #
+
+  ID: 2034613859080659368  Author: @alhasany_news
+  Text: معاوية في النار كفـ.ره اثنا عشر من علماءكم يا سلفية
+#اين_تفسير_النبي_للقران
+#حوارات_شيعه_التوحيد_الصرخيه
+
+#اميركا #فلسطي
+
+  ID: 2034613827128746369  Author: @alhasany_news
+  Text: السلفية يقرّون بارضاع الكبير وزنـ.ـا المعاشرة الذي أباحه البخاري
+#اين_تفسير_النبي_للقران
+#حوارات_شيعه_التوحيد_الصرخيه
+
+#
+
+  ID: 2034546581890839039  Author: @LgmanHkeem
+  Text: يا قطيع السلفية.. هل تصلون التراويح وتنصتون كالحـ.مار.
+#اين_تفسير_النبي_للقران
+#حوارات_شيعه_التوحيد_الصرخيه
+
+#اميركا #فل
+
+
+--- Automated accounts (showing up to 5 of 40) ---
+  ID: 2034363315107807520  Author: @Eng_KMansour
+  Text: فلسطين ولبنان وسوريا وغيرها
+#ايران
+الخطة المعلنة للتصدي لحرب - تراها  حرب وجودية-
+هى تحويلها  إلى حرب إقليمية سيدفع ثمنه
+
+  ID: 2034611163149811979  Author: @TheDoHNews
+  Text: 🚨 The Israeli terrorist army are TARGETING journalists in Lebanon. 
+
+Caught on camera, everyone wearing blue “PRESS” jac
+
+  ID: 2034609638839091343  Author: @IndieNewsNow_
+  Text: NEW from @indiemediatoday @indleftnews @GetIndieNews
+Israel Is Pushing Ahead Everywhere, All At Once: Iran, Lebanon, Gaz
+
+  ID: 2034596950536822889  Author: @karppbot
+  Text: *ALERT* THRESHOLD PROXIMITY — "WILL ISRAEL LAUNCH A MAJOR GROUND OFFENSIVE IN LEBAN..."
+SITTING AT 77% — ABOVE KEY LEVEL
+
+  ID: 2034530105230266679  Author: @IndieNewsNow_
+  Text: NEW from @vanessabeeley
+Trump's demented policy on Iran, Lebanon at war and the UNSCR condemns Iran for Israel's aggress
+
